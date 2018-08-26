@@ -1,2 +1,4 @@
 # practice_assignment
-Creating a repository as part of assignment
+Creating a repository preeti
+
+here i am
