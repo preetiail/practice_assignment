@@ -1,2 +1,2 @@
 # practice_assignment
-Creating a git as part of assignment
+Creating a repository as part of assignment
